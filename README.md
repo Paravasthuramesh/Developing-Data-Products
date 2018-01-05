@@ -10,8 +10,8 @@ App Description:
 This app generates the word cloud from the Clinton and Trump speeches during 2016 presidential election.
 
 Data Sources:
-http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus
-http://www.presidency.ucsb.edu/data.php
+1) http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus
+2) http://www.presidency.ucsb.edu/data.php
 
 Instructions:
 Choose a candidate - Select Clinton or Trump from the drop down input box.
