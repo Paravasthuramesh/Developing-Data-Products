@@ -19,7 +19,6 @@ Click the Submit button to display the results
 (Optionaly - Use the slider to change the value for Min. Frequency and Max. number of words)
 
 
-
 Runtime Setup:
 Download all the files into a source directory
 Run the shiny app
